@@ -46,9 +46,11 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpushp23&label=Profile%20views&color=0e75b6&style=flat" alt="amanpushp23" /> </p>
 
+- ✨ Student of life :)
+  
 - 🌱 I’m currently learning **full stack web development**
 
-- 
+-  💻 Visit my [Portfolio](https://amanpushp.com) for more details about me.
 
 - 📫 How to reach me **amanpushp2001@gmail.com**
 
