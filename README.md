@@ -1,4 +1,5 @@
-![logo](https://github.com/AMANPUSHP23/AMANPUSHP23/blob/main/Life.gif.gif) 
+![logo](https://github.com/AMANPUSHP23/AMANPUSHP23/blob/main/Life.gif)
+
 
 <div align="center">
     <h1>
@@ -34,7 +35,9 @@ technical_background:
   [
     "Full Stack Developer"
     "Intern - Python",
-    "Intern - Internet Of Things",
+    " Gen AI Enthusiast",
+    "Blockchain",
+    "AWS cloud",
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Nativ"]
