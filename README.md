@@ -51,7 +51,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   
 - 🌱 I’m currently learning **full stack web development**
 
--  💻 Visit my [Portfolio](https://amanpushp.com) for more details about me.
+-  💻 Visit my [Portfolio](https://amanpushp23.netlify.app/) for more details about me.
 
 - 📫 How to reach me **amanpushp2001@gmail.com**
 
