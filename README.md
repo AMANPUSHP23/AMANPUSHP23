@@ -14,7 +14,7 @@
 
 ```yaml
 name: Aman Pushp
-located_in: Bhubaneswar,Odisha
+located_in: Bangalore,karnataka 
 Searching_job: Full Stack Developer
 education:
   [
