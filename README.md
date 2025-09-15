@@ -14,35 +14,63 @@
 
 ```yaml
 name: Aman Pushp
-located_in: Bangalore,karnataka 
-Searching_job: Full Stack Developer
+located_in: Bangalore, Karnataka
+searching_job: Devops Engineer,Full Stack Developer
+
 education:
-  [
-    "Bachelor's in Computer Application",
-    "Master's in Computer Application",
-    
-  ]
+  - Bachelor's in Computer Applications (BCA) - Vinoba Bhave University (2018–2021)
+  - Master's in Computer Applications (MCA) - Silicon University (2023–2025)
+
 company: Searching
 
 fields_of_interests:
-  [
-    "Web Development",
-    "Software Developement",
-    "Machine Learning",
-    "Game Development",
-  ]
+  - Web Development
+  - Software Development
+  - Machine Learning
+  - Game Development
+  - DevOps & Cloud Engineering
+
 technical_background:
-  [
-    "Full Stack Developer"
-    "Intern - Python",
-    " Gen AI Enthusiast",
-    "Blockchain",
-    "AWS cloud",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Nativ"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+  - Full Stack Developer
+  - MERN Stack Developer Intern @ Codebeat (2024)
+  - Gen AI Enthusiast
+  - Blockchain
+  - AWS Cloud (EC2, Lambda)
+  - Docker & Kubernetes
+  - CI/CD Pipelines
+
+currently_learning:
+  - Docker
+  - Kubernetes
+  - React Native
+
+goals_2024:
+  - Build 25+ Projects
+  - Learn 5–10 New Technologies
+  - Contribute to Open Source
+
+projects:
+  - Portfolio Website (React + Tailwind) - 2025
+  - RoutineZen (Routine Tracking App) - 2025
+  - Pushp-Setu (Home Management System) - 2025
+  - AI-planner (AI-powered Dashboard) - 2025
+  - Lifeline Blood System (Blood Donation System) - 2025
+
+certifications:
+  - MERN Stack Web Development
+  - AWS Certification
+  - DevOps Certification
+  - Cyber Security Workshop
+  - IoT & MIS Certifications
+  - CodeClash 2025 – The Battle of Algorithms
+
+hobbies:
+  - Gaming
+  - Cinema
+  - Skateboarding
+  - Art
+  - Comedy
+
 ```
   
 ---  
