@@ -188,6 +188,10 @@ hobbies:
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
+<div align="center">
+  <p>Thanks for visiting! ❤️</p>
+  <p>✨ Keep coding, keep creating, keep inspiring! ✨</p>
+</div>
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
