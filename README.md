@@ -1,14 +1,27 @@
-![logo](https://github.com/AMANPUSHP23/AMANPUSHP23/blob/main/Life.gif)
-
-
 <div align="center">
-  <h1> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+AMAN+PUSHP;Full+Stack+Developer;DevOps+Enthusiast;Tech+Explorer" alt="Typing SVG" /></h1>
-  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=AMAN%20PUSHP&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer+☁️;MERN+Stack+Developer+💻;AWS+%7C+Docker+%7C+Kubernetes+🚀;CI%2FCD+Pipeline+Expert+⚡;Automation+Enthusiast+🤖" alt="Typing SVG" />
+  
+  <br/>
+  <br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-pushp-b1a501223/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpushp23.netlify.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpushp2001@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMANPUSHP23)
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AMANPUSHP23&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/AMANPUSHP23?label=Followers&style=for-the-badge&color=blue)
+  ![GitHub Stars](https://img.shields.io/github/stars/AMANPUSHP23?label=Stars&style=for-the-badge&color=yellow)
 </div>
 
+<br/>
 
-</div>
-<h3 align="center">A passionate SOFTWARE ENGINEER from India</h3>
+---
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
